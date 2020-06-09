@@ -20,8 +20,8 @@ plugins {
 }
 */
 version = "1.0"
-group= "me.refrac.refracfirstmod" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "refracfirstmod"
+group= "me.refraction.refractionfirstmod" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "refractionfirstmod"
 
 minecraft {
     version = "1.8.9-11.15.1.1722"
